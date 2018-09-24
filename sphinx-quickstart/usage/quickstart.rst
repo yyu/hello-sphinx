@@ -15,3 +15,14 @@ Just a *placeholder* ...
    Return an iterator that yields tuples of an index and an item of the
    *sequence*. (And so on.)
 
+
+function io.open()
+``````````````````
+
+.. autofunction:: io.open
+
+whole classes or even modules
+`````````````````````````````
+
+.. automodule:: io
+   :members:
