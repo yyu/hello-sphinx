@@ -1,4 +1,6 @@
 Installation
 ------------
 
-Just a *placeholder* ...
+
+The :py:func:`enumerate` function can be used for ...
+
